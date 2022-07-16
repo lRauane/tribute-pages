@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    font-size: 13px;
+}
+header{
+    background-color: #000;
+    color: #fff;
+     height: 80px;
+}
+.button{
+    display: inline-block;
+    background-color: #042c50;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px 30px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+}
+.menu ul, 
+.menu li,
+.menu a{
+    list-style: none;
+    text-decoration: none;
+}
+.menu ul{
+    display: flex;
+}
+.menu li a{
+    color: #fff;
+    font-weight: 600;
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    font-size: 1.2em;
+    margin-top: 15px;
+}
+.menu li a:hover{
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+}
+
+/*BANNER*/
+.banner-principal{
+    background-image: url(../images/Physicist_Stephen_Hawking_in_Zero_Gravity_NASA.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-position: top center;
+    height: calc(100vh - 80px);
+}
+.banner-principal .banner-conteudo{
+    width: 100vw;
+    height: 100%;
+    display: inline-block;
+    background-color: rgb(0, 0, 0, 0.7);
+}
+.banner-principal .banner-conteudo .Banner-area{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    line-height: 100px;
+    font-size: 27px;
+    font-weight: bold;
+    text-transform: uppercase;
+    justify-content:center;
+    margin-right: 400px;
+    color: white; 
+} 
+
+.banner-principal .banner-conteudo .Banner-area h2,
+.banner-principal .banner-conteudo .Banner-area h1{
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+.banner-principal .banner-conteudo span{
+    background-color: #042c50;
+    padding: 20px;
+    color: #ffffff;
+}
+
+/*CREDITOS DE IMAGEM*/
+.banner-principal .banner-creditos {
+    color: #ccc;
+    padding: 10px;
+    font-size: 10px;
+
+}
+.banner-principal .banner-creditos a{
+    color: rgb(182, 179, 179);
+    text-decoration: none;
+}
+.banner-principal .banner-creditos a:hover{
+    color: #000;
+}
+
+/*BIOGRAFIA*/
+#biography h2 {
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 30px;
+  }
+  
+  #biography {
+    display: flex;
+    flex-direction: column;
+    padding-top: 65px;
+    background-color: #ffffff;
+    width: 100%;
+   
+  }
+  
+  .tribute-info { 
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+  }
+  
+  .tribute-info img {
+    width:200px;
+    margin-right: 40px;
+    
+  }
+  
+  .tribute-info p {
+    width: 800px;
+    line-height: 1.8;
+    padding: 20px;
+    font-size: 18px;
+  }
+  
