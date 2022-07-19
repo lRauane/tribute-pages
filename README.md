@@ -15,8 +15,7 @@ Página de tributo sobre a vida e obra do físico teórico Stephen Hawking
 - JavaScript
 
 # 📍 Explicação do projeto
-<p> Desafio de site feito pela TechAcademy para ser desenvolvido com toda base que todos os alunos já aprenderam
- no curso. É importante falar que toda estrutura de código foi feita em ao vivo pelos professores e como o desafio era aprimorar nosso conhecimento ficou o desafio de refatorarmos e montamos o site do nosso jeito. Agradeço imensamente todos os professores que os ensinaram, foi uma onda de conhecimento!</p>
+<p> Um dia desses resolvi sair dos tutoriais da internet, e criar meus próprios projetos. Estava vendo vídeos sobre o Stephen (sou uma grande fã desse cara e do que ele fez pela ciência) e surgiu uma ideia, por que não fazer uma página de tributos sobre a vida e os grandes feitos do Hawking, contando um pouco dessa historia, desse cara que admiro tanto. </p>
  
 # 📍 Redes sociais 
  ## Me acompanhe também pelas redes sociais
