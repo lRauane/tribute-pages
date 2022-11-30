@@ -27,4 +27,4 @@ Página de tributo sobre a vida e obra do físico teórico Stephen Hawking
 # 📍 Como posso acessar esse projeto
 ### Voce pode acessar esse site pelo link:
 
-- Hospedado: (https://tribute-stephenhawking.netlify.app/)
+- Hospedado: ()
